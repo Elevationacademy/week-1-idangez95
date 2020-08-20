@@ -1,0 +1,24 @@
+#parent{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    position: absolute;
+}
+
+#child1{
+    width: 100px;
+    height: 10px;
+    background-color: red;
+    position: absolute;
+    top: 20px;
+}
+
+#child2{
+    height: 100px;
+    width: 10px;
+    position: absolute;
+    left: 10px;
+    background-color: red;
+}
+
+

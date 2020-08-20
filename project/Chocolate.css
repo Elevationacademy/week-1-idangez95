@@ -1,0 +1,56 @@
+#background{
+    width: 510px;
+    height: 250px;
+    background-color: black;
+    position: relative;
+}
+
+.cube{
+    width: 120px;
+    height: 120px;
+    background-color: #66320E;
+}
+
+#second{
+    margin-top: 10px;
+}
+
+#third{
+    margin-left: 130px;
+    position: relative;
+    bottom: 250px;
+}
+
+#fourth{
+    margin-left: 130px;
+    position: relative;
+    bottom: 240px;
+}
+
+#fifth{
+    margin-left: 260px;
+    position: relative;
+    bottom: 490px;
+}
+
+#sixth{
+    margin-left: 260px;
+    position: relative;
+    bottom: 480px;
+}
+
+#seventh{
+        margin-left: 390px;
+        position: relative;
+        bottom: 730px;
+}
+
+#red-line{
+    width: 510px;
+    height: 5px;
+    background-color: rgb(105, 15, 15);
+    position: absolute;
+    top: 122px;
+    border: black;
+
+}
